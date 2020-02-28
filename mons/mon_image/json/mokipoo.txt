@@ -1,0 +1,1 @@
+{"crit_chance": 200, "base_attack": 300, "attack_grow": 16, "image": "Mokipoo", "health_grow": 71, "speed_grow": 4, "base_speed": 400, "crit_grow": 2, "type": "Shock", "base_health": 605, "range": 2}

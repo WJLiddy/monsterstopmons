@@ -1,0 +1,1 @@
+{"crit_chance": 99, "base_attack": 100, "range": 2, "attack_grow": 8, "image": "Snoozlog", "health_grow": 100, "speed_grow": 2, "base_speed": 200, "crit_grow": 3, "type": "Earth", "base_health": 3000}

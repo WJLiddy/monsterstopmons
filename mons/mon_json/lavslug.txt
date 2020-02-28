@@ -1,0 +1,1 @@
+{"crit_chance": 200, "base_attack": 200, "range": 2, "attack_grow": 20, "image": "Lavslug", "health_grow": 63, "speed_grow": 2, "base_speed": 200, "crit_grow": 12, "type": "Flame", "base_health": 903}

@@ -1,0 +1,1 @@
+{"crit_chance": 100, "base_attack": 200, "attack_grow": 12, "image": "Electromag", "health_grow": 48, "speed_grow": 3, "base_speed": 400, "crit_grow": 7, "type": "Shock", "base_health": 700, "range": 2}

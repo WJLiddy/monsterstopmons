@@ -1,0 +1,1 @@
+{"crit_chance": 500, "base_attack": 377, "range": 2, "attack_grow": 20, "image": "Drakourier", "health_grow": 60, "speed_grow": 5, "base_speed": 200, "crit_grow": 7, "type": "Mythical", "base_health": 2000}

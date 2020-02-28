@@ -1,0 +1,1 @@
+{"crit_chance": 300, "base_attack": 300, "attack_grow": 8, "image": "Clarenbird", "health_grow": 32, "speed_grow": 7, "base_speed": 200, "crit_grow": 1, "type": "Earth", "base_health": 700, "range": 1}

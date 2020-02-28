@@ -1,0 +1,1 @@
+{"crit_chance": 100, "base_attack": 100, "range": 1, "attack_grow": 25, "image": "Barlyke", "health_grow": 74, "speed_grow": 7, "base_speed": 375, "crit_grow": 10, "type": "Flame", "base_health": 400}

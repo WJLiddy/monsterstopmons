@@ -1,0 +1,1 @@
+{"crit_chance": 0, "base_attack": 400, "attack_grow": 24, "image": "Mineraleg", "health_grow": 32, "speed_grow": 3, "base_speed": 300, "crit_grow": 0, "type": "Stone", "base_health": 200, "range": 1}

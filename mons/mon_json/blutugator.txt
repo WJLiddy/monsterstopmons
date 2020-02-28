@@ -1,0 +1,1 @@
+{"crit_chance": 400, "base_attack": 400, "attack_grow": 8, "image": "Blutugator", "health_grow": 48, "speed_grow": 4, "base_speed": 250, "crit_grow": 3, "type": "Aqua", "base_health": 1000, "range": 2}

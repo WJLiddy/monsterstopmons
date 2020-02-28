@@ -1,0 +1,1 @@
+{"crit_chance": 200, "base_attack": 200, "range": 3, "attack_grow": 20, "image": "Lavar", "health_grow": 80, "speed_grow": 5, "base_speed": 300, "crit_grow": 12, "type": "Flame", "base_health": 333}

@@ -1,0 +1,1 @@
+{"crit_chance": 400, "base_attack": 200, "attack_grow": 16, "image": "Acornote", "health_grow": 54, "speed_grow": 4, "base_speed": 200, "crit_grow": 16, "type": "Earth", "base_health": 500, "range": 2}

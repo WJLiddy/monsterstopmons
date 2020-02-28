@@ -1,0 +1,1 @@
+{"crit_chance": 200, "base_attack": 300, "range": 1, "attack_grow": 20, "image": "Genghismom", "health_grow": 90, "speed_grow": 0, "base_speed": 400, "crit_grow": 10, "type": "Earth", "base_health": 400}

@@ -1,0 +1,1 @@
+{"crit_chance": 200, "base_attack": 300, "range": 1, "attack_grow": 16, "image": "Striphant", "health_grow": 70, "speed_grow": 4, "base_speed": 150, "crit_grow": 10, "type": "Stone", "base_health": 900}

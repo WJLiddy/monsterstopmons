@@ -1,0 +1,1 @@
+{"crit_chance": 100, "base_attack": 300, "range": 2, "attack_grow": 18, "image": "Swoofl", "health_grow": 97, "speed_grow": 0, "base_speed": 700, "crit_grow": 12, "type": "Aqua", "base_health": 1000}

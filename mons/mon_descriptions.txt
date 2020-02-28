@@ -1,0 +1,190 @@
+Rockworm
+Height: 0’11’’
+Weight: 4lbs
+Species: Worm
+This worm will burrow through hundreds of different rocks until it finally finds its home, where it will stay for the rest of its life. Though small, this worm can bite through rock as if it were jello.
+Ballspode
+Height: 0’5’’
+Weight: 1.5lbs
+Species: ‘Splody
+Generally a short-tempered monster, ballspodes can be quite dangerous if agitated. If they start rolling down a hill, they will explode if stopped suddenly.
+Cubesplode
+Height: 1’00’’
+Weight: 3.5lb
+Species: ‘Splody
+Cubesplode no longer fears steep hills. They explode randomly when experiencing any sort of extreme emotion to compensate for this.
+Barlyke
+Height: 3’00’’
+Weight: 45lbs
+Species: Pupper
+This domesticated monster has been a companion of humans for hundreds of years. Dr. Jasper’s Barlyke, Adrian, never leaves his side.
+Drakourier
+Height: 8’9’’
+Weight: 450lbs
+Species: Courier Pokemon
+This monster is a ferocious species. Its wings are capable of creating a gale that can level a small village. Some skilled Collectors can befriend this Monster. Its unparalleled speed in the air makes it a great mail courier.
+Acornote
+Height: 0’6’’
+Weight: 1lbs
+Species: Nut 
+These monsters are common in rural areas. As long as their home is not threatened by humans, these monsters are benevolent. They will often help lost children find their way home.
+Bawhale
+Height: 1’6’’
+Weight: 40lbs
+Species: Fatty
+Though small, this monster is gluttonous. One Bawhale is capable of eating its own weight in krill. It is heavier than it appears.
+Striphant
+Height: 3’11
+Weight: 65lbs.
+Species: Victory
+This Monster is competitive, but clumsy. Each loss that it suffers from its rivals spurs on its desire to train and become stronger, but for now it isn’t a considerable foe.
+Triphant
+Height: 4’5’’
+Weight: 95lbs
+Species: Victory
+This monster has immense pride. It will challenge any monster that it thinks is strong to a battle, and it will put every ounce of its strength into achieving a triumphant victory.
+Biterfish
+Height: 0’7’’
+Weight: 4lbs
+Species: Bitey
+Biterfish hunt in schools. They can strip a Bullscharge down to its bone in two seconds flat. It is not advisable to swim in waters where Bitersfish swim.
+Tadmuck
+Height: 2’4’’
+Weight: 20 lbs
+Species: Tadpole
+A favorite of young trainers. This monster is carefree, but often forgetful. Its cheerful nature is contagious, and its skills at watertag are unmatched.
+Burndrake
+Height: 1’00’’
+Weight: 10lbs
+Species: Flying Salamander
+This monster seems to not be aware of its rather insignificant size. It is unwise to let down your guard around this cantankerous monster—it will not hesitate to make good use of its fiery breath.
+Snoozlog
+Height: 10’00’’
+Weight: 1,000lbs
+Species: Snooze 
+This Monster is a very popular companion. Collectors often sleep on this soft Monster’s huge belly—something that Snoozlog doesn’t mind at all. In the wild, Snoozlog is considered a pest, because it will eat everything in sight, often leveling entire forests due to its voracious appetite.
+Bullcharge
+Height: 5’11’’
+Weight: 450lbs
+Species: Bull
+This monster is known to have a terrible temper. It strengthens its skull and neck by charging at boulders and trees. Construction companies use this monster to speed up the demolition process.
+Cufox
+Height: 3’2’’
+Weight: 10lbs
+Species: Fire Fluff
+This fox-like monster is mostly fluff, which explains why they are much lighter than they appear. These Monsters are common pets in colder regions due the warmth their body provides. They are typically found in volcanic regions, and hate water.
+Genghismom
+Height: 8’9’’
+Weight: 440lbs
+Species: Mother 
+This Monster is almost never seen without a baby in its pouch, and this species can only be female. On the rare occasion that this Monster lets its baby out to play, she paroles the grounds, viciously chasing off any potential threats to its child. Approach with caution.
+Wiggadle
+Height: 0’8’’
+Weight: .6lbs
+Species: Sting Worm
+This worm Monster is considered weak, but its poisonous horn packs a mean punch! Though it isn’t fatal, it will sting very badly. Its segmented body is covered in silky soft peach fuzz, making it a popular pet once trained.
+Clarenbird
+Height: 3’6’’
+Weight: 46lbs 
+Species: Ostrich
+This bird runs all day looking for its favorite food: Rockworm. Its beak is as hard as diamond, and it can break nearly any rock that Rockworm may try to hide in.
+Triclarenbird
+Height: 3’6’’
+Weight: 51lbs
+Species: Ostrich
+This progression of Clarenbird is almost the same as its predecessor, the only difference being that there is another head. Some Monster Doctors theorize that this is to optimize their Rockworm hunting abilities.
+Gassy
+Height: 5’04’’
+Weight: .2lbs
+Species: Gaseous
+This Monster is said to have been created by swamp gas. Its noxious fumes are not easily mistaken, and so Collectors usually shy away from befriending these Monsters. A small but passionate community of the smelling impaired have a fan club devoted to Gassy.
+Duckache
+Height: 3’2’’
+Weight: 75lbs
+Species: Migraine
+This monster suffers from constant migraines, and shys away from the light. Some Collectors give their Duckaches special sunglasses to mitigate the symptoms. In the wild, Duckaches typically tend to collect at the bottom of deep, murkey ponds and lakes.
+Electromag
+Height: Varies (At least 0’4’’)
+Weight: 3lbs
+Species: Magnet
+The monster expands and contracts at will. It is a reclusive Monster, usually found near power plants. This Monster is cold and difficult to establish a connection with, but loyal once befriended.
+Blutugator
+Height: 3’6’’
+Weight: 65lbs
+Species: Cutetodile
+This Monster is a playful and friendly swamp dwelling creature. It is infamous for not really knowing its own strength though, so Collectors are warned to be wary of their powerful jaws. Blutugator’s jaws are strong enough to crush a boulder with little to no apparent effort.
+Golanger
+Height: 0’8’’
+Weight: 1lbs.
+Species: French Hamster
+A rare, new species of Monster. Recently discovered by a multinational company, this Monster is notable for being a great lover of coffee. It is growing in popularity for its cute appearance, and its quiet and obedient nature.
+Gooper
+Height: 2’00’’
+Weight: 35lbs
+Species: Sewage
+This species of Monster is considered man-made. Though Doctors have yet to see the birth of a Gooper, they are known to only be born from sewage. This monster is known to eat sewage, and so they are considered blessings in highly populated cities.
+Mysterious
+Height: 1’00’’
+Weight: .01lbs
+Species: Alphabet
+This Monster was discovered by anthropologists when they were excavating an ancient city. These Monsters appeared to be writing at first, but they were actually sentient monsters! They are an elusive and shy species, but when they are befriended, they will use their psychic powers to aid their Collector.
+Lavar
+Height: 3’11’
+Weight: 95lbs
+Species: Lava Duck
+This Monster loves swimming in lava. Collectors be warned, Lavar is too hot for many to handle.
+Lavslug
+Height: 2’00’’
+Weight: 40lbs
+Species: Sluggos
+This Monster blends in perfectly as lava, and its primary food is metamorphic rocks. When it is full, it can barely move at all. Even at its fastest, Collectors will still have to be patient with this sluggish Pokemon.
+Pieu
+Height: 2’4’’
+Weight: 20lbs
+Species: Trickster
+This Monster is capable of teleporting, and is very elusive. Because of this, its very existence is questioned by some skeptics. Its psychic powers, once harnessed by a capable Collector, is a considerable asset.
+Mineraleg
+Height: 1’6 
+Weight: 35lbs
+Species: Mobile Rock
+This Monster looks exactly like a rock when it’s sleeping. However, it wakes up if accidentally stepped on, and it will chase whomever stepped on it for miles. It will not rest until it gets its vengeance, but luckily it is satisfied with a not too powerful kick, and then it will go back to sleep.
+Mokipoo
+Height: 2’9’’
+Weight: 32lbs
+Species: Shocky Squirel
+This Monster is quick to befriend, but has a sizeable amount of static stored in its fur. Collectors are advised to discharge this with rubber gloves before physical contact. In the wild, this Monster is partial to burrowing in fields.
+Pyslither
+Height: 3’4’’
+Weight: 25lbs
+Species: Duet Monster
+Dependable, but the male and female equivalents need one another for balance. This monster is very friendly and capable, so it is popular amongst beginners. Its only drawback is its tendency to get very upset when things are out of order.
+Rubink
+Height: 4’2’’
+Weight: 80lbs
+Species: Amiable
+The friendliest and arguably most companionable Monster. It is very popular with starting collectors for these reasons. It loves making new friends with humans or monsters, but due to its usability and popularity, it is rare to find one in the wild. They typically live in caves where they can find their favorite food—gems.
+Shockid
+Height: 3’1’’
+Weight: 75lbs
+Species: Power Lifting
+This Monster is somewhat reclusive. It constantly works on improving its physical strength, along with its electrical abilities. Typically this Monster lives in the mountains, and is only seen during thunderstorms, where it hopes to be hit by lightning and increase its power.
+Sludger
+Height: 5’00
+Weight: 110lbs
+Species: Sewage
+Sludger is an advanced form of Gooper. Only when Goopers bond with one another can a Sludger be born. Sludger can consume considerably more sewage than a Gooper, and so they are highly valued in large cities for their sanitation abilities.
+Spooker
+Height: 3’10
+Weight: .7lbs
+Species: Gaseous
+Spooker is an advanced form of Gassy. Like Gassy, Spooker is composed completely of gas. Spooker is guilty of pushing away former friends by taking hauntings too far, and so Spooker often ends up being a loner.
+Swoofl
+Height: 3’7’’
+Weight: 60lbs
+Species: Swift
+This Monster is eager to be the center of attention. It is intelligent and learns tricks rapidly, as long as it is given the attention it desires. Its swimming prowess is nothing to take lightly, either. In the water, Swoofl is one of the fastest Monsters known.
+Zaplite
+Height: 2’6’’
+Weight: 40lbs
+Species: Angler
+This fish-like Monster is the friend of many sailors. They have been known since ancient times to help lost ships find their way to shore, following the light from this Monster’s lure. 

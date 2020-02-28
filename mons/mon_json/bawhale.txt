@@ -1,0 +1,1 @@
+{"crit_chance": 190, "base_attack": 150, "range": 3, "attack_grow": 12, "image": "Bawhale", "health_grow": 120, "speed_grow": 4, "base_speed": 150, "crit_grow": 10, "type": "Aqua", "base_health": 2000}

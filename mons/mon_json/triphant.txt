@@ -1,0 +1,1 @@
+{"crit_chance": 250, "base_attack": 400, "range": 1, "attack_grow": 20, "image": "Triphant", "health_grow": 75, "speed_grow": 4, "base_speed": 100, "crit_grow": 15, "type": "Stone", "base_health": 1400}

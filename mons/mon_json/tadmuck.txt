@@ -1,0 +1,1 @@
+{"crit_chance": 150, "base_attack": 150, "range": 3, "attack_grow": 15, "image": "Tadmuck", "health_grow": 70, "speed_grow": 5, "base_speed": 350, "crit_grow": 10, "type": "Aqua", "base_health": 900}

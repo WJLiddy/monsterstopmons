@@ -1,0 +1,1 @@
+{"crit_chance": 400, "base_attack": 200, "range": 2, "attack_grow": 18, "image": "Wiggadle", "health_grow": 40, "speed_grow": 4, "base_speed": 300, "crit_grow": 11, "type": "Toxic", "base_health": 250}

@@ -1,0 +1,700 @@
+{
+	"moves":
+	[
+		{
+		"type":"aqua",
+		"range":1,
+		"name":"Foam",
+		"power":100,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"aqua",
+		"range":1,
+		"name":"Seashell",
+		"power":80,
+		"special":
+			{
+				"X2":"aqua"
+			}
+		},
+
+		{
+		"type":"aqua",
+		"range":1,
+		"name":"Riptide",
+		"power":80,
+		"special":
+			{
+				"RAGE":10
+			}
+		},
+
+
+		{
+		"type":"aqua",
+		"range":2,
+		"name":"SuperSoak",
+		"power":70,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"aqua",
+		"range":2,
+		"name":"Flood",
+		"power":50,
+		"special":
+			{
+				"HIT_ADJACENT":""
+			}
+		},
+
+		{
+		"type":"aqua",
+		"range":2,
+		"name":"Blizzard",
+		"power":100,
+		"special":
+			[
+				{"X0":"cosmic"},
+				{"X0":"toxic"}
+			]
+		},
+
+		{
+		"type":"aqua",
+		"range":3,
+		"name":"Rain",
+		"power":40,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"aqua",
+		"range":3,
+		"name":"Mud",
+		"power":20,
+		"special":
+			{
+				"X2":"earth"
+			}
+		},
+
+		{
+		"type":"aqua",
+		"range":3,
+		"name":"Chlorine",
+		"power":50,
+		"special":
+			{
+				"X0":"toxic"
+			}
+		},
+
+
+
+		{
+		"type":"toxic",
+		"range":1,
+		"name":"Cyanide",
+		"power":100,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"toxic",
+		"range":1,
+		"name":"Pollution",
+		"power":50,
+		"special":
+			{
+				"X3":"earth"
+			}
+		},
+
+		{
+		"type":"toxic",
+		"range":1,
+		"name":"Chloroform",
+		"power":70,
+		"special":
+			{
+				"X2":"earth"
+			}
+		},
+
+		
+
+		{
+		"type":"toxic",
+		"range":2,
+		"name":"Venom",
+		"power":70,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"toxic",
+		"range":2,
+		"name":"LSD",
+		"power":0,
+		"special":
+			{
+				"USE_OPPONENT_MOVE":""
+			}
+		},
+
+		{
+		"type":"toxic",
+		"range":2,
+		"name":"Lead",
+		"power":100,
+		"special":
+			{
+				"UNEVOLVED":""
+			}
+		},
+
+		
+
+		{
+		"type":"toxic",
+		"range":3,
+		"name":"Radiation",
+		"power":40,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"toxic",
+		"range":3,
+		"name":"Petrol",
+		"power":50,
+		"special":
+			{
+				"X0":"Flame"
+			}
+		},
+
+		{
+		"type":"toxic",
+		"range":3,
+		"name":"Mustard",
+		"power":50,
+		"special":
+			{
+				"X0":"shock"
+			}
+		},
+
+		
+		{
+		"type":"flame",
+		"range":1,
+		"name":"Stir Fry",
+		"power":100,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"flame",
+		"range":1,
+		"name":"Toast",
+		"power":110,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"flame",
+		"range":1,
+		"name":"Bake",
+		"power":115,
+		"special":
+			{
+			}
+		},
+
+		
+
+		{
+		"type":"flame",
+		"range":2,
+		"name":"Grill",
+		"power":70,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"flame",
+		"range":2,
+		"name":"Campfire",
+		"power":80,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"flame",
+		"range":2,
+		"name":"Broil",
+		"power":85,
+		"special":
+			{
+			}
+		},
+
+		
+
+		{
+		"type":"flame",
+		"range":3,
+		"name":"Microwave",
+		"power":40,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"flame",
+		"range":3,
+		"name":"Flambe",
+		"power":50,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"flame",
+		"range":3,
+		"name":"Boil",
+		"power":55,
+		"special":
+			{
+			}
+		},
+
+
+
+		{
+		"type":"stone",
+		"range":1,
+		"name":"Diamond",
+		"power":100,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"stone",
+		"range":1,
+		"name":"Topaz",
+		"power":10,
+		"special":
+			{
+				"ALLIES_ALIVE":20
+			}
+		},
+
+		{
+		"type":"stone",
+		"range":1,
+		"name":"Quartz",
+		"power":110,
+		"special":
+			{
+				"X0":"cosmic"
+			}
+		},
+
+		
+
+		{
+		"type":"stone",
+		"range":2,
+		"name":"Calcite",
+		"power":70,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"stone",
+		"range":2,
+		"name":"Charcoal",
+		"power":90,
+		"special":
+			{
+				"X0":"flame"
+			}
+		},
+
+		{
+		"type":"stone",
+		"range":2,
+		"name":"Brick",
+		"power":150,
+		"special":
+			{
+				"AFFECT":"shock"
+			}
+		},
+
+		
+
+		{
+		"type":"stone",
+		"range":3,
+		"name":"Talc",
+		"power":40,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"stone",
+		"range":3,
+		"name":"SandStone",
+		"power":50,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"stone",
+		"range":3,
+		"name":"SandStorm",
+		"power":30,
+		"special":
+			{
+				"HIT_ADJACENT":""
+			}
+		},
+
+		{
+		"type":"earth",
+		"range":1,
+		"name":"Core",
+		"power":120,
+		"special":
+			{
+				"X0":"flame"
+			}
+		},
+
+		{
+		"type":"earth",
+		"range":1,
+		"name":"Humble",
+		"power":50,
+		"special":
+			{
+				"X3":"cosmic"
+			}
+		},
+
+		{
+		"type":"earth",
+		"range":1,
+		"name":"Quake",
+		"power":100,
+		"special":
+			{
+				"HIT_ADJACENT":""
+			}
+		},
+
+		
+
+		{
+		"type":"earth",
+		"range":2,
+		"name":"Mantle",
+		"power":80,
+		"special":
+			{
+				"X0":"stone"
+			}
+		},
+
+		{
+		"type":"earth",
+		"range":2,
+		"name":"Mine",
+		"power":60,
+		"special":
+			{
+				"X2":"stone"
+			}
+		},
+
+		{
+		"type":"earth",
+		"range":2,
+		"name":"Recycle",
+		"power":50,
+		"special":
+			{
+				"HIT_ADJACENT":""
+			}
+		},
+
+		{
+		"type":"earth",
+		"range":3,
+		"name":"Crust",
+		"power":50,
+		"special":
+			{
+				"X0":"flame"
+			}
+		},
+
+		{
+		"type":"earth",
+		"range":3,
+		"name":"Fault",
+		"power":30,
+		"special":
+			{
+				"X2":"earth"
+			}
+		},
+
+		{
+		"type":"earth",
+		"range":3,
+		"name":"Growth",
+		"power":30,
+		"special":
+			{
+				"HEAL":50
+			}
+		},
+
+
+		{
+		"type":"shock",
+		"range":1,
+		"name":"9Volt",
+		"power":100,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"shock",
+		"range":1,
+		"name":"Hack",
+		"power":0,
+		"special":
+			{
+				"USE_OPPONENT_MOVE":""
+			}
+		},
+
+		{
+		"type":"shock",
+		"range":1,
+		"name":"Short Circuit",
+		"power":200,
+		"special":
+			{
+				"HIT_ADJACENT":""
+			}
+		},
+
+		
+
+		{
+		"type":"shock",
+		"range":2,
+		"name":"Double A",
+		"power":70,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"shock",
+		"range":2,
+		"name":"C++",
+		"power":100,
+		"special":
+			{
+				"HURT":10
+			}
+		},
+
+		{
+		"type":"shock",
+		"range":2,
+		"name":"AC",
+		"power":50,
+		"special":
+			{
+				"X2":"flame"
+			}
+		},
+
+		{
+		"type":"shock",
+		"range":3,
+		"name":"Triple A",
+		"power":40,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"shock",
+		"range":3,
+		"name":"Corrosion",
+		"power":100,
+		"special":
+			{
+				"AFFECT":"earth"
+			}
+		},
+
+		{
+		"type":"shock",
+		"range":3,
+		"name":"Salt",
+		"power":100,
+		"special":
+			{
+				"AFFECT":"water"
+			}
+		},
+
+
+		{
+		"type":"cosmic",
+		"range":1,
+		"name":"Star",
+		"power":100,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"cosmic",
+		"range":1,
+		"name":"Cleanse",
+		"power":50,
+		"special":
+			{
+				"X3":"toxic"
+			}
+		},
+
+		{
+		"type":"cosmic",
+		"range":1,
+		"name":"Deity",
+		"power":300,
+		"special":
+			{
+				"HURT":""
+			}
+		},
+
+		
+
+		{
+		"type":"cosmic",
+		"range":2,
+		"name":"Galaxy",
+		"power":70,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"cosmic",
+		"range":2,
+		"name":"Eclipse",
+		"power":20,
+		"special":
+			{
+				"ALLIES_ALIVE":10
+			}
+		},
+
+		{
+		"type":"cosmic",
+		"range":2,
+		"name":"Asteroid",
+		"power":50,
+		"special":
+			{
+				"HIT_ADJACENT":""
+			}
+		},
+
+
+		{
+		"type":"cosmic",
+		"range":3,
+		"name":"Universe",
+		"power":40,
+		"special":
+			{
+			}
+		},
+
+		{
+		"type":"cosmic",
+		"range":3,
+		"name":"Psychic",
+		"power":0,
+		"special":
+			{
+				"USE_OPPONENT_MOVE":""
+			}
+		},
+
+		{
+		"type":"cosmic",
+		"range":3,
+		"name":"Smite",
+		"power":20,
+		"special":
+			{
+				"X3":"earth"
+			}
+		}
+	]
+}

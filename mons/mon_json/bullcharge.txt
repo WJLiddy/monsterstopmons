@@ -1,0 +1,1 @@
+{"crit_chance": 350, "base_attack": 500, "range": 1, "attack_grow": 3, "image": "Bullcharge", "health_grow": 57, "speed_grow": 2, "base_speed": 301, "crit_grow": 5, "type": "Earth", "base_health": 1147}

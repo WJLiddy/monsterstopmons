@@ -1,0 +1,1 @@
+{"crit_chance": 300, "base_attack": 200, "range": 3, "attack_grow": 10, "image": "Gooper", "health_grow": 30, "speed_grow": 5, "base_speed": 330, "crit_grow": 10, "type": "Toxic", "base_health": 1800}

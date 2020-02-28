@@ -1,0 +1,1 @@
+{"crit_chance": 200, "base_attack": 20, "range": 2, "attack_grow": 25, "image": "Burndrake", "health_grow": 90, "speed_grow": 3, "base_speed": 278, "crit_grow": 7, "type": "Flame", "base_health": 400}

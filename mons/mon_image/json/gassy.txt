@@ -1,0 +1,1 @@
+{"crit_chance": 200, "base_attack": 200, "attack_grow": 12, "image": "Gassy", "health_grow": 48, "speed_grow": 3, "base_speed": 100, "crit_grow": 6, "type": "Earth", "base_health": 600, "range": 3}

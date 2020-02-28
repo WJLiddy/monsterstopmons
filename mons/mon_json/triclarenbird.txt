@@ -1,0 +1,1 @@
+{"crit_chance": 400, "base_attack": 400, "attack_grow": 14, "image": "Triclarenbird", "health_grow": 64, "speed_grow": 7, "base_speed": 300, "crit_grow": 2, "type": "Earth", "base_health": 900, "range": 1}

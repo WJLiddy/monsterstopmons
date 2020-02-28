@@ -1,0 +1,1 @@
+{"crit_chance": 100, "base_attack": 100, "range": 1, "attack_grow": 32, "image": "Biterfish", "health_grow": 52, "speed_grow": 6, "base_speed": 400, "crit_grow": 15, "type": "Water", "base_health": 300}

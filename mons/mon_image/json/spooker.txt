@@ -1,0 +1,1 @@
+{"crit_chance": 400, "base_attack": 400, "attack_grow": 16, "image": "Spooker", "health_grow": 72, "speed_grow": 5, "base_speed": 400, "crit_grow": 10, "type": "Earth", "base_health": 1000, "range": 3}

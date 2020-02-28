@@ -1,0 +1,1 @@
+{"crit_chance": 300, "base_attack": 500, "range": 3, "attack_grow": 2, "image": "Mysterious", "health_grow": 20, "speed_grow": 0, "base_speed": 420, "crit_grow": 3, "type": "Mythical", "base_health": 2000}
